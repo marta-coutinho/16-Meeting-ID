@@ -1,0 +1,16 @@
+[
+  {
+    "id": "001",
+    "email": "marta.coutinho@wiseid.pt",
+    "nome": "Marta Coutinho",
+    "empresa": "Wise ID",
+    "foto": "Blossom_black.png"
+  },
+  {
+    "id": "002",
+    "email": "joao.silva@wiseid.pt",
+    "nome": "João Silva",
+    "empresa": "Wise ID",
+    "foto": "Blossom_black.png"
+  }
+]
